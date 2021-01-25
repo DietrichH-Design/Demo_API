@@ -1,0 +1,17 @@
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.deps.json
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.runtimeconfig.json
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.runtimeconfig.dev.json
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.dll
+/Users/dietrichhein/Projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.pdb
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.csprojAssemblyReference.cache
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.AssemblyInfoInputs.cache
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.AssemblyInfo.cs
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.csproj.CoreCompileInputs.cache
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorAssemblyInfo.cache
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorAssemblyInfo.cs
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorTargetAssemblyInfo.cache
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.dll
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.pdb
+/Users/dietrichhein/Projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.genruntimeconfig.cache
